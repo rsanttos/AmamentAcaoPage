@@ -1,0 +1,48 @@
+Primeiro patch
+# Please enter the patch name in the first line, and
+# optionally, a long description in the following lines.
+#
+# Lines starting with '#' will be ignored.
+#
+#
+# This patch contains the following changes:
+#
+# A ./.classpath
+# A ./.project
+# A ./.settings/
+# A ./.settings/org.eclipse.core.resources.prefs
+# A ./.settings/org.eclipse.jdt.core.prefs
+# A ./.settings/org.eclipse.m2e.core.prefs
+# A ./src/main/
+# A ./src/main/java/
+# A ./src/main/java/ProjetoGCM/
+# A ./src/main/java/ProjetoGCM/ProjetoGCM/
+# A ./src/main/java/ProjetoGCM/ProjetoGCM/App.java
+# A ./src/main/java/br/
+# A ./src/main/java/br/com/
+# A ./src/main/java/br/com/projetogcm/
+# A ./src/main/java/br/com/projetogcm/main/
+# A ./src/main/java/br/com/projetogcm/main/Darcs.java
+# A ./src/main/java/br/com/projetogcm/main/Main.java
+# A ./src/test/
+# A ./src/test/java/
+# A ./src/test/java/ProjetoGCM/
+# A ./src/test/java/ProjetoGCM/ProjetoGCM/
+# A ./src/test/java/ProjetoGCM/ProjetoGCM/AppTest.java
+# A ./target/classes/
+# A ./target/classes/META-INF/
+# A ./target/classes/META-INF/MANIFEST.MF
+# A ./target/classes/META-INF/maven/
+# A ./target/classes/META-INF/maven/ProjetoGCM/
+# A ./target/classes/META-INF/maven/ProjetoGCM/ProjetoGCM/
+# A ./target/classes/META-INF/maven/ProjetoGCM/ProjetoGCM/pom.properties
+# A ./target/classes/META-INF/maven/ProjetoGCM/ProjetoGCM/pom.xml
+# A ./target/classes/ProjetoGCM/
+# A ./target/classes/ProjetoGCM/ProjetoGCM/
+# A ./target/classes/br/
+# A ./target/classes/br/com/
+# A ./target/classes/br/com/projetogcm/
+# A ./target/classes/br/com/projetogcm/main/
+# A ./target/test-classes/
+# A ./target/test-classes/ProjetoGCM/
+# A ./target/test-classes/ProjetoGCM/ProjetoGCM/
