@@ -235,3 +235,155 @@
 2016-11-23 10:55:34,476 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2016-11-23 10:55:34,495 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-11-23 10:55:34,496 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-23 11:04:01,470 [Worker-210] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-23 11:04:01,491 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-23 11:04:01,495 [Worker-210] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-23 11:04:01,496 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:17:36,124 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:17:36,156 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-24 15:17:36,169 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:17:36,170 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:17:47,550 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-24 15:17:47,555 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/ProjetoGCM/src/main/resources
+2016-11-24 15:17:47,560 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-24 15:17:47,560 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/ProjetoGCM/src/test/resources
+2016-11-24 15:19:35,811 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:19:35,821 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-24 15:19:35,824 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:19:35,826 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:24:02,345 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AmamentAcao:AmamentAcao:0.0.1-SNAPSHOT @ /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/pom.xml.
+2016-11-24 15:24:03,571 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:24:03,574 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-24 15:24:03,576 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:24:03,577 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:24:10,850 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:24:10,865 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-24 15:24:10,872 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:24:10,874 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:24:22,376 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-11-24 15:24:22,933 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AmamentAcao:AmamentAcao:0.0.1-SNAPSHOT @ /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/pom.xml.
+2016-11-24 15:24:23,481 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProjetoGCM:ProjetoGCM:0.0.1-SNAPSHOT @ /Users/ramonsantos/bti/workspaces/gcm/ProjetoGCM/pom.xml.
+2016-11-24 15:24:23,786 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AmamentAcao/src/main/java
+2016-11-24 15:24:23,787 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AmamentAcao/src/main/resources
+2016-11-24 15:24:23,788 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AmamentAcao/src/test/java
+2016-11-24 15:24:24,441 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-11-24 15:24:25,916 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:24:25,930 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-24 15:24:25,947 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:24:25,949 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:24:26,309 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-24 15:24:26,309 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/ProjetoGCM/src/main/resources
+2016-11-24 15:24:26,312 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-24 15:24:26,312 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/ProjetoGCM/src/test/resources
+2016-11-24 15:25:03,820 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:25:03,827 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-24 15:25:03,830 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:25:03,831 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:25:49,514 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:25:49,524 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-24 15:25:49,526 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:25:49,527 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:26:09,235 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:26:09,246 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-24 15:26:09,248 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:26:09,249 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:29:19,205 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:29:19,217 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-24 15:29:19,233 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:29:19,233 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:30:01,640 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:30:01,650 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-24 15:30:01,653 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:30:01,654 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:30:01,747 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-24 15:30:01,748 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/ProjetoGCM/src/main/resources
+2016-11-24 15:30:01,751 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-24 15:30:01,752 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/ProjetoGCM/src/test/resources
+2016-11-24 15:32:07,530 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:32:07,537 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-24 15:32:07,539 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:32:07,540 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:32:21,206 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:32:21,206 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-24 15:32:21,209 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:32:21,209 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:34:41,851 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:34:41,857 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-24 15:34:41,864 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:34:41,865 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:35:10,731 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:35:10,736 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-24 15:35:10,739 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:35:10,740 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:37:10,558 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AmamentAcao:AmamentAcao:0.0.1-SNAPSHOT @ /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/pom.xml.
+2016-11-24 15:37:14,390 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.3/commons-lang-2.3.pom
+2016-11-24 15:37:14,512 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.3/commons-lang-2.3.pom
+2016-11-24 15:37:14,662 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.3/commons-lang-2.3.jar
+2016-11-24 15:37:15,171 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.3/commons-lang-2.3.jar
+2016-11-24 15:37:15,367 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:37:15,376 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-24 15:37:15,378 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:37:15,380 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:37:17,692 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:37:17,694 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-24 15:37:17,697 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:37:17,698 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:37:17,720 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-11-24 15:37:18,300 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AmamentAcao:AmamentAcao:0.0.1-SNAPSHOT @ /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/pom.xml.
+2016-11-24 15:37:18,760 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProjetoGCM:ProjetoGCM:0.0.1-SNAPSHOT @ /Users/ramonsantos/bti/workspaces/gcm/ProjetoGCM/pom.xml.
+2016-11-24 15:37:19,005 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AmamentAcao/src/main/java
+2016-11-24 15:37:19,005 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AmamentAcao/src/main/resources
+2016-11-24 15:37:19,006 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AmamentAcao/src/test/java
+2016-11-24 15:37:19,744 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-11-24 15:37:20,901 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:37:20,903 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-24 15:37:20,915 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:37:20,916 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:37:21,370 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-24 15:37:21,370 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/ProjetoGCM/src/main/resources
+2016-11-24 15:37:21,371 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-24 15:37:21,372 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/ProjetoGCM/src/test/resources
+2016-11-24 15:37:42,034 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:37:42,036 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-24 15:37:42,038 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:37:42,039 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:37:42,092 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-24 15:37:42,092 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/ProjetoGCM/src/main/resources
+2016-11-24 15:37:42,093 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-24 15:37:42,093 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/ProjetoGCM/src/test/resources
+2016-11-24 15:38:00,923 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:38:00,927 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-24 15:38:00,929 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:38:00,931 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:39:32,784 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:39:32,802 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-24 15:39:32,807 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:39:32,808 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:40:14,670 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:40:14,679 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-24 15:40:14,681 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:40:14,682 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:41:08,098 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:41:08,099 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-24 15:41:08,104 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 15:41:08,105 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/src/test/resources
+2016-11-24 15:43:09,857 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/pom.xml
+2016-11-24 15:43:10,036 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AmamentAcao:AmamentAcao:0.0.1-SNAPSHOT @ /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/pom.xml.
+2016-11-24 15:43:10,122 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AmamentAcao/src/main/java
+2016-11-24 15:43:10,122 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AmamentAcao/src/test/java
+2016-11-24 15:43:10,190 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-11-24 15:43:12,190 [Worker-41] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/var/folders/j1/vbtfxgfx1d5fctc13d42x20r0000gn/T/RemoteBundleDiscoveryStrategy3757818668987565490.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_9110519595454968834.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2016-11-24 15:43:12,191 [Worker-41] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2016-11-24 15:43:12,194 [Worker-41] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/var/folders/j1/vbtfxgfx1d5fctc13d42x20r0000gn/T/RemoteBundleDiscoveryStrategy3757818668987565490.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_9110519595454968834.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2016-11-24 15:43:12,195 [Worker-41] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2016-11-24 15:44:29,302 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-11-24 15:44:29,999 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AmamentAcao:AmamentAcao:0.0.1-SNAPSHOT @ /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/pom.xml.
+2016-11-24 15:44:30,802 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProjetoGCM:ProjetoGCM:0.0.1-SNAPSHOT @ /Users/ramonsantos/bti/workspaces/gcm/ProjetoGCM/pom.xml.
+2016-11-24 15:44:31,221 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AmamentAcao/src/main/java
+2016-11-24 15:44:31,221 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AmamentAcao/src/test/java
+2016-11-24 15:44:32,551 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2016-11-25 14:34:19,710 [Worker-101] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-11-25 14:34:20,828 [Worker-101] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AmamentAcao:AmamentAcao:0.0.1-SNAPSHOT @ /Users/ramonsantos/bti/workspaces/gcm/AmamentAcao/pom.xml.
+2016-11-25 14:34:21,858 [Worker-101] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AmamentAcao/src/main/java
+2016-11-25 14:34:21,859 [Worker-101] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AmamentAcao/src/test/java
+2016-11-25 14:34:22,237 [Worker-101] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
