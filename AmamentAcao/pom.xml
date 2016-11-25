@@ -163,7 +163,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>EspatifadoCliente</finalName>
+		<finalName>AmamentAcao</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
