@@ -44,12 +44,15 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="AmamentAcao.AmamentAcao"/>
 			<item value="ProjetoGCM.ProjetoGCM"/>
 		</list>
 		<list key="groupId">
+			<item value="AmamentAcao"/>
 			<item value="ProjetoGCM"/>
 		</list>
 		<list key="artifactId">
+			<item value="AmamentAcao"/>
 			<item value="ProjetoGCM"/>
 		</list>
 		<list key="projectNameTemplate">
