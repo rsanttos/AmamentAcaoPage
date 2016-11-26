@@ -209,8 +209,16 @@
 				<artifactId>heroku-maven-plugin</artifactId>
 				<version>1.1.2</version>
 				<configuration>
+					<assembleDirectory>target</assembleDirectory>
+					<programs>
+						<program>
+							<mainClass>br.com.amamentacao.main.Main</mainClass>
+							<name>webapp</name>
+						</program>
+					</programs>
 					<processTypes>
-						<web>java $JAVA_OPTS -cp target/classes:target/dependency/* br.com.amamentacao.main.Main</web>
+						<web>java $JAVA_OPTS -cp target/classes:target/dependency/*
+							br.com.amamentacao.main.Main</web>
 					</processTypes>
 				</configuration>
 			</plugin>
