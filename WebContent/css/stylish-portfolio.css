@@ -16,6 +16,11 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+@font-face {
+  font-family: 'Ubuntu LI';
+  src: url('../fonts/ubuntu_li.ttf') format('truetype');
+}
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
@@ -25,7 +30,8 @@ body {
 .text-vertical-center h1 {
     margin: 0;
     padding: 0;
-    font-size: 4.5em;
+    font-size: 5.5em;
+    font-family: "Ubuntu LI";
     font-weight: 700;
 }
 
