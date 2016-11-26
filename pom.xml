@@ -196,18 +196,9 @@
 		<finalName>AmamentAcao</finalName>
 		<plugins>
 			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.0</version>
-				<configuration>
-					<source>1.8</source>
-					<target>1.8</target>
-				</configuration>
-			</plugin>
-			<plugin>
-				<groupId>com.heroku.sdk</groupId>
-				<artifactId>heroku-maven-plugin</artifactId>
-				<version>1.1.2</version>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>appassembler-maven-plugin</artifactId>
+				<version>1.1.1</version>
 				<configuration>
 					<assembleDirectory>target</assembleDirectory>
 					<programs>
@@ -216,11 +207,15 @@
 							<name>webapp</name>
 						</program>
 					</programs>
-					<processTypes>
-						<web>java $JAVA_OPTS -cp target/classes:target/dependency/*
-							br.com.amamentacao.main.Main</web>
-					</processTypes>
 				</configuration>
+				<executions>
+					<execution>
+						<phase>package</phase>
+						<goals>
+							<goal>assemble</goal>
+						</goals>
+					</execution>
+				</executions>
 			</plugin>
 		</plugins>
 	</build>
